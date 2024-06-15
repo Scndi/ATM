@@ -1,1 +1,2 @@
+可直接下载ATM文件夹打开，下面的是主要的源码和包
 客户端打开ConnectionWindow.java 服务器端打开ATM_sever.java
